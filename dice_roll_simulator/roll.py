@@ -1,4 +1,5 @@
 # The goal is to create a program that will simulate the roll of dice.
+#
 # by JemboDev @ 05.02.21
 
 from random import randint
